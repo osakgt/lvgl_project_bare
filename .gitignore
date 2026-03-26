@@ -1,0 +1,26 @@
+# Keil 自动生成的垃圾文件
+Objects/
+Listings/
+*.axf
+*.hex
+*.o
+*.d
+*.htm
+*.dep
+*.bak
+*.lnp
+*.sct
+*.map
+*.eep
+*.iex
+*.iobj
+*.ipdb
+*.tmp
+
+# 仿真、调试文件
+*.uvgui
+*.ini
+_Rel/
+_Dbg/
+Output/
+BUILD/
